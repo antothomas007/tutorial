@@ -1,0 +1,8 @@
+1. Write a function in R that takes a dataframe as input and returns the number of rows in the dataframe.
+2. Write a function in R that takes a dataframe as input and returns the number of columns in the dataframe.
+3. Write a R program to extract first two rows from a given data frame.
+4. Write a R program to extract 3rd and 5th rows with 1st and 3rd columns from a given data frame.
+5. Write a R program to add a new column in a given data frame.
+6. Write a R program to add new row(s) to an existing data frame.
+7.  Write a R program to drop column(s) by name from a given data frame.
+8. Write a R program to drop row(s) by number from a given data frame.

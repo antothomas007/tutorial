@@ -1,0 +1,5 @@
+v=c(67,23,43,6,5,8798)
+r=sort(v)
+n=sort(v, decreasing = TRUE)
+cat('ascending order is : ',r)
+cat('descending order is : ',n)

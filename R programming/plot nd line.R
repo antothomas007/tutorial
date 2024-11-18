@@ -1,0 +1,8 @@
+x = c(2,4,6,8,10)
+plot(x,type='l',col='red')
+plot(x[2],type='p',col='blue')
+y=c(6,8,10,12,14)
+z=c(14,16,18,20,22)
+plot(x,type='l',col='pink')
+lines(y,types='p',col='red')
+lines(2,type='l',col='black')

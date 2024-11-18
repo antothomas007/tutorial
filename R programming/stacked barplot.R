@@ -1,0 +1,8 @@
+# month =c('jan','feb')
+# colours = c('red','green')
+# v = matrix(c(12,20,23,24),nrow=2,ncol=2)
+# barplot(v,main = 'stacked bar chart',xlab='x axis',ylab='y axis',col = colours,names.arg=month)
+student=c('aljo','sreyas','felix','anto')
+colour=c('orange','white','green','black')
+v=matrix(c(12,20,23,24),nrow=4,ncol=4)
+barplot(v,main='stacked bar chart',xlab='xaxis',ylab='yaxis',col=colour,names.arg=student)

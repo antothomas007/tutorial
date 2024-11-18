@@ -1,0 +1,6 @@
+u=as.numeric(readline(prompt='enter the 1st number :'))
+v=as.numeric(readline(prompt='enter the 2nd number :'))
+cat('Addition = ',u+v)
+cat('Substraction = ',u-v)
+cat('Multiplication = ',u*v)
+cat('Division = ',u/v)

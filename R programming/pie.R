@@ -1,0 +1,5 @@
+ b=c('twoo','four','six','eight')
+ a=c(2,4,6,8)
+ pie(a,init.angle=90,radius=1,clockwise=1,label=b,main='pie')
+library(plotrix)
+pie3D(a,main= '3D',explode=0)
